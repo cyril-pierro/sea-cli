@@ -59,6 +59,13 @@ The `sea-cli` is configured using a YAML file. The file must contain a top-level
 
 - `export_folder`: The name of the folder where the processed data will be saved.
 
+Alternatively, you can pass the input files directly to the run command:
+```bash
+    sea run --rmsd rmsd.txt --rg rg.txt --rmsf rmsf.txt --bits 8 --export-folder Exported_Data
+```
+
+This allows you to override or specify inputs without needing a config file.
+
 ## License
 
 This project is licensed under the MIT License - see the `LICENSE` file for details.
@@ -67,6 +74,9 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 
 If you have any questions or issues, please open an issue on the project's GitHub repository.
 
-Ezekiel Edward Nettey-Oppong - misterezekieledward@gmail.com
-Per Badasu - peter.badasu10@gmail.com
-Emmanuel Essel Mensah - Emmanuelesselm@gmail.com
+| Author                         | Email                           |
+|-------------------------------|--------------------------------|
+| Ezekiel Edward Nettey-Oppong | misterezekieledward@gmail.com  |
+| Per Badasu                    | peter.badasu10@gmail.com       |
+| Emmanuel Essel Mensah         |   Emmanuelesselm@gmail.com
+
