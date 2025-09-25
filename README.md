@@ -66,3 +66,4 @@ If you have any questions or issues, please open an issue on the project's GitHu
 
 Ezekiel Edward Nettey-Oppong - misterezekieledward@gmail.com
 Per Badasu - peter.badasu10@gmail.com
+Emmanuel Essel Mensah - Emmanuelesselm@gmail.com
