@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="sea-cli",
-    version="0.1.4",
+    version="0.1.5",
     author="Ezekiel Edward Netty-Oppong & Per Badasu & Emmanuel Essel Mensah",
     author_email="misterezekieledward@gmail.com",
     description="A command-line utility for Structured Entropy Analysis (SEA)",
