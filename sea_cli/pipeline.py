@@ -80,7 +80,7 @@ def run_pipeline(config: dict):
     base_savepath.parent.mkdir(parents=True, exist_ok=True)
 
     # Generate all plots in a loop
-    for plot_func, (filename, data) in plot_config.items():
+    for plot_func, (filename, data) in plot_config.items()
         plot_func(data, show=should_plot,
                   savepath=str(base_savepath).format(filename))
     return {"normalized": normalized, "bitstreams": bitstreams, "results": results}
