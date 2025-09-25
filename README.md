@@ -64,5 +64,5 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 
 If you have any questions or issues, please open an issue on the project's GitHub repository.
 
-Ezekiel Edward Nettey Oppong - misterezekieledward@gmail.com
+Ezekiel Edward Nettey-Oppong - misterezekieledward@gmail.com
 Per Badasu - peter.badasu10@gmail.com
