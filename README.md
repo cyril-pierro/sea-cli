@@ -4,6 +4,9 @@
 
 The `sea-cli` is a command-line utility designed to perform Structured Entropy Analysis (SEA). It processes data from various molecular dynamics simulations and analysis files, providing a streamlined way to perform complex calculations directly from your terminal. The utility is configured via a simple YAML file, making it easy to integrate into existing workflows.
 
+Structured Entropy Analysis (SEA) is a Python framework for revealing hidden structural dynamics in molecular systems by going beyond traditional descriptors like RMSD, Rg, and RMSF. By converting molecular dynamics features into entropy-based signatures, SEA quantifies complexity, evaluates randomness, and highlights non-random patterns tied to underlying physical properties. With built-in visualization and statistical tools, the framework provides a fresh perspective on biomolecular behavior and is extensible to other dynamical systems in materials science, nanotechnology, and beyond.
+
+
 ## Features
 
 - **Simple Interface:** A clean and intuitive command-line interface powered by `click`.
